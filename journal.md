@@ -8,4 +8,6 @@
 ####		-> certaines manipulations peu claires sur la fiche d'exercice (notamment le Tag, que nous n'avons pas vu la semaine dernière)
 ####		-> Rattrapage du travail de la semaine dernière suite au retard pris, lié à des difficultés liées à la machine
 
-## * Création d'un groupe pour le projet, pas de discussion sur le thème actuellement
+## * Création d'un groupe pour le projet
+###
+####  -> pas de discussion sur le thème actuellement
